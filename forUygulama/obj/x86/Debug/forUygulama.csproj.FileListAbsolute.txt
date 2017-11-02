@@ -1,0 +1,4 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\forUygulama\bin\Debug\forUygulama.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\forUygulama\bin\Debug\forUygulama.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\forUygulama\obj\x86\Debug\forUygulama.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\forUygulama\obj\x86\Debug\forUygulama.pdb

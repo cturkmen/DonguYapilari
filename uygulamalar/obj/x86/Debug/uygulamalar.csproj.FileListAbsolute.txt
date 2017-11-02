@@ -1,0 +1,7 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\uygulamalar\bin\Debug\uygulamalar.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\uygulamalar\bin\Debug\uygulamalar.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\uygulamalar\obj\x86\Debug\uygulamalar.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\uygulamalar\obj\x86\Debug\uygulamalar.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\uygulamalar\obj\x86\Debug\uygulamalar.csprojResolveAssemblyReference.cache
+I:\grup 5\DonguYapilari\uygulamalar\obj\x86\Debug\uygulamalar.exe
+D:\program ile ilgili\grup 5\DonguYapilari\uygulamalar\obj\x86\Debug\uygulamalar.exe

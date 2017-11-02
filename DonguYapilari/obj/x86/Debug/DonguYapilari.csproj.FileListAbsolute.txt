@@ -1,0 +1,5 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\DonguYapilari\bin\Debug\DonguYapilari.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\DonguYapilari\bin\Debug\DonguYapilari.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\DonguYapilari\obj\x86\Debug\DonguYapilari.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\DonguYapilari\obj\x86\Debug\DonguYapilari.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\DonguYapilari\obj\x86\Debug\DonguYapilari.csprojResolveAssemblyReference.cache

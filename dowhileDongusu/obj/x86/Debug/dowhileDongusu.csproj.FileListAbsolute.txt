@@ -1,0 +1,4 @@
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\dowhileDongusu\bin\Debug\dowhileDongusu.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\dowhileDongusu\bin\Debug\dowhileDongusu.pdb
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\dowhileDongusu\obj\x86\Debug\dowhileDongusu.exe
+C:\Users\Smartpro\Desktop\Canan Şahin\DonguYapilari\dowhileDongusu\obj\x86\Debug\dowhileDongusu.pdb
